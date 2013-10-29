@@ -1,4 +1,4 @@
-name             "cassandra"
+name             "cassandra-chef-cookbook"
 maintainer       "Michael S. Klishin"
 maintainer_email "michael@clojurewerkz.org"
 license          "Apache 2.0"
